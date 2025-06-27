@@ -128,5 +128,16 @@ src/
 
 ## ライセンス
 
-- アプリケーションコード: 適用されるライセンスに従う
-- IPAフォント: [IPA Font License](https://opensource.org/licenses/IPA)
+### IPAフォント
+このプロジェクトに含まれるIPAゴシックフォント（`ipaexg.ttf`）は、**IPA Font License v1.0**でライセンスされています。
+
+- ✅ **再配布許可**: 商用・非商用問わず配布可能
+- ✅ **改変許可**: 特定条件下での改変可能
+- ✅ **使用制限なし**: 自由に使用可能
+- ⚠️ **ライセンス表示義務**: 再配布時は元ライセンスの添付必須
+- ⚠️ **名称保持**: フォント名の変更不可
+
+[公式ライセンス](https://opensource.org/license/ipafont-html)をご確認ください。
+
+**著作権表示**:
+Copyright (c) Information-technology Promotion Agency, Japan (IPA), 2003-2010.
